@@ -1,5 +1,6 @@
-print ("Hello World!")
-print ("Hello everyBody!")
-print ("Hello!")
-print ("Hello my dear friend")
-print ("Glad i see you")
+
+print ("Hello World!;")
+print ("Hello everyBody!;")
+print ("Hello!;")
+print ("Hello my dear friend;")
+print ("Glad to see you;")
